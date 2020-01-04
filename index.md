@@ -1,91 +1,72 @@
 ---
 layout: cv
-title: William Jiang's CV
+title: Resumé
+tags: resume
 ---
 # William Jiang
-Data Sciencer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:iamwilliamj@gmail.com">iamwilliamj@gmail.com</a>
+|
+<i class="fa fa-github"></i> <a href="http://github.com/wjia26">wjia26</a>
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+`July 2019-`
+__Product Data Analyst, carsales.com.au__ nvolved in all stages of the Product Analytics Development cycle. From designing Key Metrics with Product Team, communicating tagging requirements with Developers and sitting in with QA team. Built dashboards which provide insights to Product/Leadership Team about a range of products.
 
-### Specialized in
+`July 2018 - July 2019`
+__Deloitte (Analytics and Cognitive), Melbourne__ · Developed ETL ingestion patterns to support an Energy Trading client. Use of Oracle ETL Stack. Developed Generic Functions in PL/SQL for Data ingestion used across the platform. Built Financial Tableau reports to
+replace existing legacy reports. Created R Models to calculate forward prices for commodities trading based on business rules
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Dec. 2017 - June 2018`
+__Research Assistant, RMIT Melbourne__ Built front-end dashboards using Splunk and Predictive Models for an in-house Application. Co-ordination with offshore to deliver products.
 
 
 ## Education
 
 `2013-2017`
-__Monash University, Australia__
+__Bachelor of Electrical and Computer Systems Engineering__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+***GPA 3.5:***  First Class Honours, Engineering Excellence Scholarship, Westpac Asian Exchange Scholarship
 
-- Sizar
+`2013-2017`
+__Bachelor of Commerce__
+***GPA 3.5:***  Finance
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2007-10`
+__John Monash Science School__ 99.65 / 100 ATAR
 
 
-## Awards
+## Projects
 
-`2012`
-President, *Royal Society*, London, UK
+### Final Year Project
 
-Associate, *French Academy of Science*, Paris, France
+Implemented hand-eye co-ordination in a Robotic Arm using Deep Learning. Skills attained: RoboDK, Polyscope,
+Tensorflow.
 
+__* Please see my Github profile for other projects and pull-request contributions.__
 
+## Technical
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+* **Python**
+* **Ruby**
+* **Java**
+* Git
+* Web Applications & APIs
+* Data Engineering
+* Algorithm Design
+* Scripting
 
 
-## Occupation
+## Links
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+* <i class="fa fa-envelope"></i> <a href="mailto:jbelotti@zendesk.com">jbelotti@zendesk.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a><br />
+*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a><br />
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-

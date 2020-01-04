@@ -1,0 +1,101 @@
+I"<h1 id="william-jiang">William Jiang</h1>
+
+<div id="webaddress">
+<a href="mailto:iamwilliamj@gmail.com">iamwilliamj@gmail.com</a>
+|
+<i class="fa fa-github"></i> <a href="http://github.com/wjia26">wjia26</a>
+</div>
+
+<h2 id="experience">Experience</h2>
+
+<p><code class="highlighter-rouge">July 2019-</code>
+<strong>Product Data Analyst, carsales.com.au</strong> nvolved in all stages of the Product Analytics Development cycle. From designing Key Metrics with Product Team, communicating tagging requirements with Developers and sitting in with QA team. Built dashboards which provide insights to Product/Leadership Team about a range of products.</p>
+
+<p><code class="highlighter-rouge">July 2018 - July 2019</code>
+<strong>Deloitte (Analytics and Cognitive), Melbourne</strong> · Developed ETL ingestion patterns to support an Energy Trading client. Use of Oracle ETL Stack. Developed Generic Functions in PL/SQL for Data ingestion used across the platform. Built Financial Tableau reports to
+replace existing legacy reports. Created R Models to calculate forward prices for commodities trading based on business rules</p>
+
+<p><code class="highlighter-rouge">Dec. 2017 - June 2018</code>
+<strong>Research Assistant, RMIT Melbourne</strong> Built front-end dashboards using Splunk and Predictive Models for an in-house Application. Co-ordination with offshore to deliver products.</p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="highlighter-rouge">2013-2017</code>
+<strong>Bachelor of Electrical and Computer Systems Engineering</strong></p>
+
+<p><strong><em>GPA 3.5:</em></strong>  First Class Honours, Engineering Excellence Scholarship, Westpac Asian Exchange Scholarship</p>
+
+<p><code class="highlighter-rouge">2013-2017</code>
+<strong>Bachelor of Commerce</strong>
+<strong><em>GPA 3.5:</em></strong>  Finance</p>
+
+<p><code class="highlighter-rouge">2007-10</code>
+<strong>John Monash Science School</strong> 99.65 / 100 ATAR</p>
+
+<h2 id="university-leadership--involvement">University Leadership &amp; Involvement</h2>
+
+<p><code class="highlighter-rouge">2016-</code>
+<strong>President, Computer Science &amp; IT Society</strong> Rebranded the club, completed its website and have set up new student engagement initiatives.</p>
+
+<p><code class="highlighter-rouge">2014-15</code>
+<strong>Lead Investment &amp; IT Officer, Foresight Investment</strong> With over $50,000 AUM the group generated annualised returns of greater than 11% while the ASX200 went down.</p>
+
+<p><code class="highlighter-rouge">2016-</code>
+<strong>Founder &amp; Vice President - RMIT Programming Club</strong> Setup club’s communication channels.branding, and website. Created leadership group and now run meetings biweekly</p>
+
+<h2 id="projects">Projects</h2>
+
+<h3 id="insults">Insults</h3>
+
+<p>Uses Machine Learning to detect if online comments are insulting or derogatory. In the spirit of Google’s Perspective Project.</p>
+
+<h3 id="aimacodeaima-javapython">aimacode/aima-(java|python)</h3>
+<p>Implemented the HITS (python and java) algorithm and CYK Parsing algorithm (java).</p>
+
+<h3 id="sudkamp-langs-machinesjavapython">sudkamp-langs-machines=(java|python)</h3>
+
+<p>Implementing computing theory algorithms from Sudkamp’s Languages and Machines textbook in Python and Java.</p>
+
+<p><strong>* Please see my Github profile for other projects and pull-request contributions.</strong></p>
+
+<h2 id="awards">Awards</h2>
+
+<p>MRC Capacity building scholarship (PhD fees + enhanced stipend)</p>
+
+<p>MRC Full postgraduate scholarship (MSc fees + stipend)</p>
+
+<p>ISCB computational biology Wikipedia competition 2013 (<a href="http://dx.doi.org/10.1371/journal.pcbi.1003242">doi:10.1371/journal.pcbi.1003242</a>; 2nd place)</p>
+
+<p>Imperial Create Lab’s “Summer data challenge” (<a href="http://summerdatachallenge.com">summerdatachallenge.com</a>; 3rd place)</p>
+
+<p>Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014</p>
+
+<p>Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation</p>
+
+<p>Front cover design selected for J. Comp. Chem. (34:22) (<a href="http://dx.doi.org/10.1002/jcc.23388">doi:10.1002/jcc.23388</a>)</p>
+
+<h2 id="technical">Technical</h2>
+
+<ul>
+  <li><strong>Python</strong></li>
+  <li><strong>Ruby</strong></li>
+  <li><strong>Java</strong></li>
+  <li>Git</li>
+  <li>Web Applications &amp; APIs</li>
+  <li>Data Engineering</li>
+  <li>Algorithm Design</li>
+  <li>Scripting</li>
+</ul>
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li><i class="fa fa-envelope"></i> <a href="mailto:jbelotti@zendesk.com">jbelotti@zendesk.com</a><br /></li>
+  <li><i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a><br /></li>
+  <li><i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a><br /></li>
+</ul>
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+:ET
