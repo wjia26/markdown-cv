@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: William Jiang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# William Jiang
+Data Sciencer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -27,8 +27,8 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2017`
+__Monash University, Australia__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
